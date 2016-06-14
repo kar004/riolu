@@ -1,0 +1,14 @@
+{
+  "name": "slyfer",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "slyfer",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/kar004/slyfer",
+  "website": "http://github.com/kar004/slyfer",
+  "repository": "http://github.com/kar004/slyfer"
+}
