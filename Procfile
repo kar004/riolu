@@ -1,1 +1,1 @@
-web: slyfer
+web: go run *.go
